@@ -1,0 +1,88 @@
+body {
+
+background-image: url('http://www.publicdomainpictures.net/pictures/40000/velka/yellow-check-background-pattern.jpg');
+}
+
+header {
+background-color: #ffffff;
+width: 1100px;
+margin-left: 100px;
+margin-color:#ffffff;
+}
+
+h2 {
+  color:#333333;
+  font-family: Times;
+}
+
+p {
+  color: #5d5d5d;
+  font-family: Times;
+}
+
+#menu {
+    width: 1100px;
+    height: 80px;
+    font-size: 16px;
+    font-family: ChopinScript;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    background-color: #fdf258;
+    float: center;
+    margin-left: 100px;
+}
+
+#menu ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+#menu li { 
+display: inline; 
+padding: 30px; 
+font-size: 35px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: white;
+    padding: 8px 8px 8px 8px;
+}
+
+#menu a:hover {
+    color: #F90;
+    background-color: #FFF;
+    height: 75px;
+}
+
+
+#content {
+  height: 700px;
+  width: 1100px;
+  background-color: white;
+  font-family: Arial;
+  padding-top: 50px;
+  
+}
+
+.image {
+  align: left;
+}
+.text {
+  align-content: right;
+  width: 700px;
+
+  }  
+}
+#footer {
+   bottom:0;
+   width:100%;
+   height:30px;   
+   background: white;
+   margin-bottom: 0px;
+   position: relative;
+   clear: both;
+
+  }
+ 
